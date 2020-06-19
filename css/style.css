@@ -1,0 +1,75 @@
+.test1{
+	background-color: #171A16;
+	width: 100%;
+	height: 700px;
+	font-style: italic;
+	white-space: pre;
+	font-size: 150px;
+	font-weight: 900;
+	text-shadow: 10px 10px 0px #F9418B,20px 20px 0px #562349;
+	font-family: arial;
+	color: rgba(250,235,215, 0.7);
+}
+.test2{
+	width: 100%;
+	height: 200px;
+	text-transform: uppercase;
+	font-weight:600;
+	font-size: 75px;
+	text-align: center;
+	font-family: arial;
+	letter-spacing: 10px;
+	color: #FF6461;
+	text-shadow: 3px 3px 0px #585B7E,-6px -6px 0px #E8BAED;
+	padding-top: 50px;
+}
+.test3{
+	width: 100%;
+	height: 200px;
+	letter-spacing: 15px;
+	text-shadow: 15px 15px 15px black;
+	text-align: center;
+	font-weight: 400;
+	font-size: 100px;
+	font-family: arial;
+}
+.test4{
+	width: 100%;
+	height: 500px;
+	background-color: #171A16;
+	font-size: 50px;
+	font-weight: 900;
+	text-align: center;
+	font-family: arial;
+}
+.float{
+	float: left;
+	margin: 120px;
+}
+.clear{
+	float: left;
+	margin-left: 200px;
+}
+#flaming{
+	color: #FFFFF8;
+	text-shadow:5px -5px 5px #E09E45, 10px -10px 15px #AF441B,20px -20px 20px #9C3820,-5px 0px 10px #9C3820;
+}
+#ghost{
+	color: #949494;
+	text-shadow:15px -10px 5px #525252;
+}
+#Vegas{
+	color: #FFFCFC;
+	text-shadow:5px 5px 5px #C46490,10px 10px 5px #AE4A75,15px 15px 5px #90355C,-5px -5px 5px #C46490,-10px -10px 5px #AE4A75,-15px -15px 5px #90355C;
+}
+#comic{
+	color: maroon;
+	text-shadow:5px 5px 2px #3290B0,10px 10px 5px #3290B0,15px 15px 10px #3290B0;
+}
+#Dracula{
+	color: #92A4DB;
+	text-shadow: 5px 5px 15px #92A4DB,15px 15px 15px #92A4DB,25px 25px 20px #05093E;
+}
+
+
+
